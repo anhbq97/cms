@@ -7,11 +7,9 @@
         <title>Laravel</title>
 
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
-        <!-- <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}"> -->
-        <!-- <link rel="stylesheet" href="{{ asset('css/fontawesome-free-6.0.0-web/css/all.min.css') }}" type="text/css"> -->
         <link rel="stylesheet" href="{{ mix('css/app.css') }}">
     </head>
-    <body style="font-family: 'Nunito', sans-serif">
+    <body>
         <div id="app">
             <app></app>
         </div>
